@@ -14,6 +14,7 @@ This is a simple Tesla landing page project created using vanilla HTML and CSS.
 
 ## Demo
 ![image](https://github.com/GeorginaMampuru/Tesla-landingPage/assets/66384787/050d7941-0783-4c1d-b646-fa01293ef3c3)
+tesla-landinggg.netlify.app
 
 
 Include a link or screenshot to a live demo of your Tesla landing page if available.
